@@ -1,2 +1,2 @@
 # GladiatorRuan.github.io
-My Personal Blog
+My Personal Blog, about scientfic research
